@@ -18,7 +18,7 @@ This repository contains all the work done for **Task 3 – Intermediate Level**
 Screenshots of setup steps are available in this repo.
 
 ## 📄 Final Report:
-PDF file attached [here](./Cloud_Computing_Task3_Report_Yashwanth.pdf)
+PDF file attached named: "Cloud_Computing_Task3_Report_Yashwanth"
 
 ## 👨‍💻 Intern:
 **Yashwanth.M.C.**  
